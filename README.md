@@ -1,4 +1,5 @@
-Code for paper "Search-Map-Search: A New Frame Selection Paradigm for Action Recognition" adapted from MMAction2 (https://github.com/open-mmlab/mmaction2)
+Code for paper "Search-Map-Search: A New Frame Selection Paradigm for Action Recognition" accepted by CVPR 2023
+https://arxiv.org/abs/2304.10316
 
 
 	sms/feature_extraction.py 
